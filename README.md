@@ -1,0 +1,2 @@
+# dua
+latihan kerja remote
